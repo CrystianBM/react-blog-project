@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Blog_Project/static/css/main.872f9360.css",
+    "main.js": "/Blog_Project/static/js/main.c50bd3de.js",
+    "static/media/react-icon.png": "/Blog_Project/static/media/react-icon.c61ad401af1f1181d9f4.png",
+    "index.html": "/Blog_Project/index.html",
+    "main.872f9360.css.map": "/Blog_Project/static/css/main.872f9360.css.map",
+    "main.c50bd3de.js.map": "/Blog_Project/static/js/main.c50bd3de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.872f9360.css",
+    "static/js/main.c50bd3de.js"
+  ]
+}
